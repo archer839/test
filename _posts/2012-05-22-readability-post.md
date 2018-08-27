@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "TEST Ra"
-date: 
+date: 01.02.2018
 excerpt: "archi"
-tags: false [sample post, readability, test]
+tags: [sample post, readability, test]
 comments: true
 ---
 
