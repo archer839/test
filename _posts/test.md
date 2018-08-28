@@ -16,7 +16,7 @@ HSL | Hauteur Sous Linteau
 CIS | ComprIS
 EXI | EXIstant
 
---Accecibilite des batiments aux personnes handicapes
+**Accecibilite des batiments aux personnes handicapes
 
 Raccourcie | Origine
 -----------|-----------
