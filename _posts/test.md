@@ -15,12 +15,6 @@ HSPO | Hauteur Sous POutre
 HSL | Hauteur Sous Linteau
 CIS | ComprIS
 EXI | EXIstant
------------|-----------
-
-**Accecibilite des batiments aux personnes handicapes
-
-Raccourcie | Origine
------------|-----------
 Ad'Ap | Agenda d'accessibilité programmée
 Ad'Ap-s | Agenda d'accessibilité programmée simplifié
 AT | Autorisation de construire d'aménager ou de modofier un établissement recevant du public
