@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: site
 title: "ABP"
 date: 01.02.2018
 excerpt: "archi"
