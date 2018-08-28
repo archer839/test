@@ -3,7 +3,7 @@ layout: post
 title: "ABP"
 date: 01.02.2018
 excerpt: "archi"
-tags: [sample post, readability, test]
+tags: [sample post, test]
 comments: true
 ---
 
