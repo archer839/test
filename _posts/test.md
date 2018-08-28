@@ -15,7 +15,6 @@ HSPO | Hauteur Sous POutre
 HSL | Hauteur Sous Linteau
 CIS | ComprIS
 EXI | EXIstant
-
 ERP | Etablissements recevant du public
 IOP | Installation ouverte au public
 Ad'Ap | Agenda d'accessibilité programmée
