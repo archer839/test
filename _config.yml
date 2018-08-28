@@ -13,7 +13,7 @@ url:                https://archer839.github.io/testm/
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        green
+highlighter:        rouge
 kramdown:
   auto_ids:         true
   footnote_nr:      1
