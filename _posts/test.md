@@ -15,6 +15,7 @@ HSPO | Hauteur Sous POutre
 HSL | Hauteur Sous Linteau
 CIS | ComprIS
 EXI | EXIstant
+-----------|-----------
 
 **Accecibilite des batiments aux personnes handicapes
 
@@ -43,3 +44,4 @@ PAVE | Plan de lise en accessibilié da la voirie et des aménagements des espac
 PC | Permis de Construire
 PMR | Personne à mobilité réduite
 PPRI | Plan de prévention du risque inondation
+-----------|-----------
