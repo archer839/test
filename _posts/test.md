@@ -16,6 +16,8 @@ HSL | Hauteur Sous Linteau
 CIS | ComprIS
 EXI | EXIstant
 
+--Accecibilite des batiments aux personnes handicapes
+
 Raccourcie | Origine
 -----------|-----------
 Ad'Ap | Agenda d'accessibilité programmée
