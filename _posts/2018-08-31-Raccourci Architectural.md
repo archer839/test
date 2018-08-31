@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "test"
+title:  "Raccourci Architectural"
 date:   2016-03-30
-excerpt: ""
+excerpt: "Collection des raccourcis architecturals"
 tag:
 - sample
 - post
