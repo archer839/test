@@ -11,7 +11,7 @@ comments: true
 ---
 
 Taille | Largeur x Hauteur (mm) | Largeur x Hauteur (inch)
------------|-----------
+-----------|-----------|-----------
 A0 | 	841 x 1189 mm | 33,1 x 46,8 po
 A1 | 	594 x 841 mm | 	23,4 x 33,1 po
 A2 | 	420 x 594 mm | 	16,5 x 23,4 po
