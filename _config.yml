@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             2014-04-18 11:30:00 +0800
-url:                https://archer839.github.io/testm/
+url:                https://archer839.github.io/test/
 
 # Jekyll
 permalink:          /:title/
