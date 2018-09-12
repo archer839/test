@@ -1,4 +1,4 @@
- | ---
+---
 layout: post
 title:  "Atuocad presentation"
 date:   2016-03-30
