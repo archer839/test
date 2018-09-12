@@ -4,9 +4,7 @@ title:  "Atuocad presentation"
 date:   2016-03-30
 excerpt: "Echelle a mettre sur la presentation pour Autocad"
 tag:
-- sample
-- post
-- video
+- 
 comments: true
 ---
 
