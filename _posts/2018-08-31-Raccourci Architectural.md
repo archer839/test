@@ -20,3 +20,10 @@ CIS | ComprIS
 EXI | EXIstant
 AT | Autorisation de Travaux
 DP | Déclaration Péalable de travaux
+PMR | Personne à Mobilité Réduite
+ESQ | Esquisse
+APS | Avant Projet Sommaire
+APD | Avant Projet Détaillé / Définitif
+DPC | Dossier de Permis de Construire
+DCE | Dossiers de Consultations des Entreprises
+MAR | Marchés de travaux
