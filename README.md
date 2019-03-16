@@ -1,3 +1,3 @@
 Home
 
-https://archer839.github.io/testm/
+https://archer839.github.io/test/
