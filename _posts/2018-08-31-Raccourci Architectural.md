@@ -21,10 +21,10 @@ EXI | EXIstant
 PMR | Personne à Mobilité Réduite
 MEP | Maintenance Electricite Plomberie
 
----
+Raccourcie | Origine
+-----------|-----------
 AT | Autorisation de Travaux
 DP | Déclaration Péalable de travaux
-
 ESQ | Esquisse
 APS | Avant Projet Sommaire
 APD | Avant Projet Détaillé / Définitif
@@ -33,5 +33,4 @@ PC | vérification de la conformité du dossier Permis de Construir
 DPC | Dossier de Permis de Construire
 DCE | Dossiers de Consultations des Entreprises
 MAR | Marchés de travaux
-
 EXE | EXEcution
