@@ -18,13 +18,19 @@ HSPO | Hauteur Sous POutre
 HSL | Hauteur Sous Linteau
 CIS | ComprIS
 EXI | EXIstant
+PMR | Personne à Mobilité Réduite
+MEP | Maintenance Electricite Plomberie
+
 AT | Autorisation de Travaux
 DP | Déclaration Péalable de travaux
-PMR | Personne à Mobilité Réduite
+
 ESQ | Esquisse
 APS | Avant Projet Sommaire
 APD | Avant Projet Détaillé / Définitif
+PRO | PROjet
+PC | vérification de la conformité du dossier Permis de Construir
 DPC | Dossier de Permis de Construire
 DCE | Dossiers de Consultations des Entreprises
 MAR | Marchés de travaux
-MEP | Maintenance Electricite Plomberie
+
+EXE | EXEcution
