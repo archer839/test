@@ -34,5 +34,5 @@ MAR | Marchés de travaux
 EXE | EXEcution
 AT | Autorisation de Travaux
 DP | Déclaration Péalable de travaux
-MOD | maître d’ouvrage délégué
-AMO | assistant à maîtrise d’ouvrage
+MOD | Maître d’Ouvrage Délégué
+AMO | Assistant à Maîtrise d’Ouvrage
