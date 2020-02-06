@@ -9,7 +9,7 @@ comments: true
 ---
 
 French | English | -
------------|-----------|-----------
+|:--------|:-------:|--------:|
 3DARRAY | 3DARRAY | 3A
 3DDELIM | 3DCLIP
 3DDIST | 3DDISTANCE
