@@ -10,7 +10,7 @@ tag:
 comments: true
 ---
 
-Raccourcie | Origine
+Raccourcie | Complet
 -----------|-----------
 HSPH | Hauteur Sous Planche Haut
 HSFP | Hauteur Sous Faux Plafond
@@ -21,7 +21,7 @@ EXI | EXIstant
 PMR | Personne à Mobilité Réduite
 MEP | Maintenance Electricite Plomberie
 
-Raccourcie | Origine
+Raccourcie | Complet
 -----------|-----------
 ESQ | Esquisse
 APS | Avant Projet Sommaire
